@@ -14,7 +14,7 @@
     similar-candidate-count="15"
     position-left="30"
     display-delay="30000"
-    homepage-url=""
+    homepage-url="https://parthganeriwala.github.io/"
   />
   <Header />
   <Explainer />
