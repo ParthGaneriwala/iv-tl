@@ -2,8 +2,8 @@
 set -o errexit
 
 # config
-git config --global user.email "xiao.hk1997@gmail.com"
-git config --global user.name "xiaohk"
+git config --global user.email "ganeriwalaparth@gmail.com"
+git config --global user.name "Parth Ganeriwala"
 
 # build
 git clone git@github.com:poloclub/cnn-explainer.git
