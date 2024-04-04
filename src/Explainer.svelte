@@ -30,5 +30,5 @@
 
 <div id='explainer'>
     <Overview />
-    <Overview />
+<!--    <Overview />-->
 </div>
