@@ -8,14 +8,15 @@
 
 <div id="app-page">
   <recommender-overlay
-    my-brand="CNN Explainer"
+    my-brand="Transfer Learning Common Knowledge Extractor"
     brands-to-ignore="CNN 101"
     recommendation-count="10"
     similar-candidate-count="15"
     position-left="30"
     display-delay="30000"
-    homepage-url="https://poloclub.github.io/"
+    homepage-url=""
   />
   <Header />
   <Explainer />
 </div>
+<!--    homepage-url="https://poloclub.github.io/"-->

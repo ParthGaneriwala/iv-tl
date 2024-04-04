@@ -180,7 +180,7 @@
     {file: 'orange_1.jpeg', class: 'orange'},
     {file: 'car_1.jpeg', class: 'sport car'}
   ];
-  let selectedImage = imageOptions[6].file;
+  let selectedImage = imageOptions[9].file;
 
   let nodeData;
   let selectedNodeIndex = -1;
@@ -1572,7 +1572,7 @@
   </div>
 </div>
 
-<Article/>
+<!--<Article/>-->
 
 <div id='detailview'>
   {#if selectedNode.data && selectedNode.data.type === 'conv' && selectedNodeIndex != -1}

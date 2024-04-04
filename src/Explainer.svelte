@@ -30,4 +30,5 @@
 
 <div id='explainer'>
     <Overview />
+    <Overview />
 </div>

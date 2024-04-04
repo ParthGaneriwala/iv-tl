@@ -19,7 +19,7 @@
 	#logo-text {
 		font-size: 30px;
 		color: var(--light-gray);
-		font-family: 'A Love of Thunder';
+		font-family: 'Courier New';
 		margin-right: 10px;
 	}
 
@@ -58,7 +58,7 @@
 
   <div id="logo">
     <div id="logo-text">
-      CNN Explainer
+      Transfer Learning Common Knowledge Extractor
     </div>
 
 		<svg width="510px" height="50px">
@@ -73,33 +73,28 @@
 				</filter>
 			</defs>
 
-			<g filter="url(#chalk-texture)" transform="translate(0, 35)">
-				<text id="svg-logo-tagline">
-					Learn Convolutional Neural Network (CNN) in your browser! 
-				</text>
-			</g>
 		</svg>
   </div>
 
-	<div class="icons">
-	
-		<div class="icon" title="Research paper">
-			<a target="_blank" href="https://arxiv.org/abs/2004.15004">
-				<img src="PUBLIC_URL/assets/img/pdf.png" alt="pdf icon"/>
-			</a>
-		</div>
+<!--	<div class="icons">-->
+<!--	-->
+<!--		<div class="icon" title="Research paper">-->
+<!--			<a target="_blank" href="https://arxiv.org/abs/2004.15004">-->
+<!--				<img src="PUBLIC_URL/assets/img/pdf.png" alt="pdf icon"/>-->
+<!--			</a>-->
+<!--		</div>-->
 
-		<div class="icon" title="Demo video">
-			<a target="_blank" href="https://youtu.be/HnWIHWFbuUQ">
-				<img src="PUBLIC_URL/assets/img/youtube.png" alt="youtube icon"/>
-			</a>
-		</div>
+<!--		<div class="icon" title="Demo video">-->
+<!--			<a target="_blank" href="https://youtu.be/HnWIHWFbuUQ">-->
+<!--				<img src="PUBLIC_URL/assets/img/youtube.png" alt="youtube icon"/>-->
+<!--			</a>-->
+<!--		</div>-->
 
-		<div class="icon" title="Open-source code">
-			<a target="_blank" href="https://github.com/poloclub/cnn-explainer">
-				<img src="PUBLIC_URL/assets/img/github.png" alt="github icon"/>
-			</a>
-		</div>
+<!--		<div class="icon" title="Open-source code">-->
+<!--			<a target="_blank" href="https://github.com/poloclub/cnn-explainer">-->
+<!--				<img src="PUBLIC_URL/assets/img/github.png" alt="github icon"/>-->
+<!--			</a>-->
+<!--		</div>-->
 
-	</div>
+<!--	</div>-->
 </div>
