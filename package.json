@@ -13,6 +13,7 @@
     "svelte": "^3.31.0"
   },
   "dependencies": {
+    "@sveltejs/adapter-static": "^1.0.0-next.49",
     "@tensorflow/tfjs": "^1.4.0",
     "sirv-cli": "^0.4.4"
   },
