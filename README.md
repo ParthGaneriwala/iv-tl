@@ -1,7 +1,7 @@
 # Transfer Learning Common Knowledge Extractor
 TransferVis: A visualization tool for exploring and analyzing feature representations in transfer learning, enhancing interpretability and decision-making.
 
-## Credits
+## Credits to original creator
 
 CNN Explainer was created by
 <a href="https://zijie.wang/">Jay Wang</a>,
