@@ -44,6 +44,12 @@ jobs:
       - name: Build
         run: npm run build
 
+      - name: Upload Artifacts
+        uses: actions/upload-pages-artifact@v3
+        with:
+          name: github-pages
+          path: public/
+
   deploy:
     needs: build
     runs-on: ubuntu-latest
@@ -57,6 +63,10 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
+      - name: Download Artifact
+        uses: actions/download-artifact@v1
+        with:
+          path: public/
 
       - name: Deploy to GitHub Pages
         id: deployment
